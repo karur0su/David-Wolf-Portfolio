@@ -1,0 +1,19 @@
+cd ~ (changes to home directory)
+cd .. (moves up one directory)
+ls (lists files in folder)
+pwd (shows current directory)
+mkdir <FOLDERNAME> (creates new directory)
+touch <FILENAME> (creates a file)
+rm <FILENAME> (deletes file)
+rm -r <FOLDERNAME> (deletes a folder, note the -r)
+open . (opens the current folder. MAC SPECIFIC)
+open <FILENAME> (opens a specific file. MAC SPECIFIC)
+explorer <FILENAME> (opens the specific file. BASH SPECIFIC)
+explorer . (opens the current folder. BASH SPECIFIC)
+
+
+Create a new folder with the name of self-destructing-folder
+Create a new txt file with the name secret-message.txt
+Copy secret-message.txt to the inside of self-destructing-folder.
+Delete the original secret-message.txt file.
+Delete the self-destructing-folder.
